@@ -1,0 +1,1 @@
+# resourses_generator-v1.3.gihub.io
